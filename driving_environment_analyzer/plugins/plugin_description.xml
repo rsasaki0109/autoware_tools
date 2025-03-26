@@ -1,9 +1,0 @@
-<library path="driving_environment_analyzer">
-
-  <class
-    type="driving_environment_analyzer::DrivingEnvironmentAnalyzerPanel"
-    base_class_type="rviz_common::Panel">
-    <description>DrivingEnvironmentAnalyzerPanel</description>
-  </class>
-
-</library>

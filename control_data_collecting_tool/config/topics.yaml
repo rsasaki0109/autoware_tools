@@ -1,8 +1,0 @@
-topics:
-  - /localization/kinematic_state
-  - /localization/acceleration
-  - /vehicle/status/steering_status
-  - /system/operation_mode/state
-  - /control/command/control_cmd
-  - /external/selected/control_cmd
-  - /control/command/actuation_cmd
